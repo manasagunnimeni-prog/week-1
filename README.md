@@ -54,3 +54,32 @@ Green Energy: More solar-powered charging stations.
 ✅ Final Outcome on EV Charging
 
 The development of EV charging systems has made electric vehicles more efficient, convenient, and eco-friendly. With advancements like fast charging, smart grids, and renewable energy integration, EV charging is becoming quicker, cleaner, and more accessible. These improvements will encourage more people to adopt EVs, leading to a greener and sustainable future in transportation.
+
+📘 Week 2 Project Title:
+
+"Analysis and Prediction of Electric Vehicle Growth Using Machine Learning"
+
+🎯 Objective:
+
+To analyze the EV population dataset and apply machine learning models to predict the growth and characteristics of electric vehicles based on various parameters like model year, electric range, and location.
+
+🧩 Dataset Used:
+
+Electric Vehicle Population Data
+📍Source: Kaggle – Electric Vehicle Population Data
+
+Format: CSV
+
+🧠 Concepts Learned in Week 2:
+
+Data cleaning & preprocessing for ML
+
+Feature selection and training/testing
+
+Applying Linear Regression
+
+Evaluating ML models
+
+Visualizing EV data trends
+File Added:
+📁  Electric_Vehicle_Population_Sample.csv
